@@ -3,4 +3,4 @@ Based off Bodmers TFT_eSPI for ESP32 and more library, controlling a [TinySine a
 https://youtube.com/shorts/lsfz0sgEmvw?feature=share
 
 
-[amp bluetooth board!](https://www.tinyosshop.com/image/cache/data/Audio/TSA2500/TSA2500-1-800x800.jpg)
+[![amp bluetooth board!](https://www.tinyosshop.com/image/cache/data/Audio/TSA2500/TSA2500-1-800x800.jpg)]
